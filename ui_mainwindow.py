@@ -35,7 +35,7 @@ class Ui_MainWindow(object):
         self.label = QLabel(self.labelFrame)
         self.label.setObjectName(u"label")
         self.label.setGeometry(QRect(30, 30, 391, 141))
-        self.label.setPixmap(QPixmap(u"coupang.png"))
+#         self.label.setPixmap(QPixmap(u"defaultImage.png"))
 
         self.verticalLayout.addWidget(self.labelFrame)
 
